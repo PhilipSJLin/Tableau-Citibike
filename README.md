@@ -6,7 +6,8 @@ Using Tableau to generate a regular report for city officials looking to publici
 This analysis aims to Tableau to determine key metrics about the New York Citi Bike Program and generate visuals which can best provide answers to city officials.<br/>
 
 ## **Tableau Presentation**
-
+Here is an interactive Dashboard for you to explore my data. <br/>
+   * [Tableau Dashboard](https://public.tableau.com/app/profile/philip.lin6790/viz/TableauHomework_16911665661090/DBSummary?publish=yes)<br/>
 
 <details><summary>Our Task</Summary>
 
