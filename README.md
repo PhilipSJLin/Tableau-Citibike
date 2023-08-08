@@ -38,6 +38,7 @@ This analysis aims to Tableau to determine key metrics about the New York Citi B
 ## **Data**
 For my assignment, I have used data publicly available on the [Citi Bike Data webpage](https://citibikenyc.com/system-data). <br/>
    * 202212-citibike-tripdata.csv<br/>
+This file is **NOT** in the github due to file size restrictions. <br/>
 
 In this assignment, I receieved assistance through looking at previous activities, stackoverflow, and received some support through my partner who works in the data analyst field<br/>
 
